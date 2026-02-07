@@ -61,6 +61,3 @@ This project was built as part of a **documentation website clone assignment**, 
 - Overall user experience and design quality  
 
 ---
-
-## 📂 Project Structure
-
